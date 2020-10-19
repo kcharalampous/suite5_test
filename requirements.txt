@@ -4,5 +4,3 @@ pymysql
 flask-migrate
 flask-script
 marshmallow
-flask-bcrypt
-pyjwt
