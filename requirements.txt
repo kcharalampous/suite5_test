@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+pymysql
+flask-migrate
+flask-script
+marshmallow
+flask-bcrypt
+pyjwt
